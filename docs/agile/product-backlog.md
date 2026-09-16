@@ -12,10 +12,10 @@
 ## Chú thích
 
 | Ký hiệu | Ý nghĩa |
-| :--- | :--- |
-| ✅ Done | Đã hoàn thành, đã kiểm thử |
-| 🔄 In Progress | Đang thực hiện |
-| 📝 Todo | Chưa bắt đầu |
+|:--- |:--- |
+| Done | Đã hoàn thành, đã kiểm thử |
+| In Progress | Đang thực hiện |
+| Todo | Chưa bắt đầu |
 | SP | Story Points (ước lượng độ phức tạp theo chuỗi Fibonacci) |
 
 ---
@@ -23,7 +23,7 @@
 ## Phân công Chức danh trong Scrum Team
 
 | Chức danh | Người đảm nhiệm | MSSV | Trách nhiệm chính |
-| :--- | :--- | :--- | :--- |
+|:--- |:--- |:--- |:--- |
 | **Product Owner (PO)** | Trần Tuấn Huynh | 2000005479 | Quản lý Product Backlog, xác định độ ưu tiên và tiêu chuẩn nghiệm thu |
 | **Scrum Master (SM)** | Trần Tuấn Huynh | 2000005479 | Tổ chức các sự kiện Scrum (Planning, Standup, Review, Retro), xử lý blocker |
 | **Developer (Dev)** | Trần Tuấn Huynh | 2000005479 | Thiết kế kiến trúc, lập trình UI/UX và logic ứng dụng (React + Vite) |
@@ -34,7 +34,7 @@
 ## Tổng quan Sprint Velocity
 
 | Sprint | Story Points Cam kết | Story Points Hoàn thành | Velocity |
-| :---: | :---: | :---: | :---: |
+|:---: |:---: |:---: |:---: |
 | Sprint 1 (17/08/2026 – 28/08/2026) | 10 SP | 10 SP | 100% |
 | Sprint 2 (31/08/2026 – 05/09/2026) | 13 SP | 13 SP | 100% |
 | **Tổng cộng** | **23 SP** | **23 SP** | **100%** |
@@ -44,14 +44,14 @@
 ## Product Backlog (Full)
 
 | Mã US | Epic / Nhóm | Mô tả User Story | Ưu tiên | SP | Sprint | Trạng thái |
-| :---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| **US01** | 🗂️ Quản lý Snippet | Là người dùng, tôi muốn **tạo một đoạn code mới** (nhập tiêu đề, chọn ngôn ngữ lập trình, dán nội dung code và ghi mô tả ngắn), để lưu trữ vào kho code cá nhân của mình. | Cao | 3 | Sprint 1 | ✅ Done |
-| **US02** | 🎨 Giao diện & Trải nghiệm | Là người dùng, tôi muốn **xem danh sách các đoạn code với tô màu cú pháp tự động** (Syntax Highlighting) theo từng ngôn ngữ lập trình, để dễ đọc và phân biệt code như trong IDE. | Cao | 5 | Sprint 1 | ✅ Done |
-| **US03** | 🎨 Giao diện & Trải nghiệm | Là người dùng, tôi muốn có **nút "Copy" 1-click** để sao chép toàn bộ nội dung đoạn code vào clipboard ngay lập tức, để dán vào IDE hoặc editor mà không cần chọn thủ công. | Cao | 2 | Sprint 1 | ✅ Done |
-| **US04** | 🏷️ Phân loại & Tìm kiếm | Là người dùng, tôi muốn **gán các thẻ phân loại (Tags)** như `#react`, `#python`, `#sql` vào mỗi đoạn code khi tạo hoặc chỉnh sửa, để nhóm và lọc chúng theo chủ đề. | Trung bình | 3 | Sprint 2 | ✅ Done |
-| **US05** | 🏷️ Phân loại & Tìm kiếm | Là người dùng, tôi muốn **tìm kiếm tức thì theo từ khóa** (tiêu đề, nội dung code) và **lọc theo Tag hoặc Ngôn ngữ lập trình** trong thời gian thực, để tra cứu đoạn code cần dùng trong vài giây. | Cao | 5 | Sprint 2 | ✅ Done |
-| **US06** | 🗂️ Quản lý Snippet | Là người dùng, tôi muốn **chỉnh sửa thông tin** (tiêu đề, code, mô tả, tags) hoặc **xóa hoàn toàn** một đoạn code không còn cần thiết, để duy trì kho code luôn gọn gàng và chính xác. | Trung bình | 2 | Sprint 2 | ✅ Done |
-| **US07** | 💾 Sao lưu dữ liệu | Là người dùng, tôi muốn **xuất (Export) toàn bộ kho code ra file `.json`** và **nhập lại (Import) từ file `.json`** trước đó, để sao lưu dữ liệu an toàn hoặc chuyển sang máy tính khác. | Thấp | 3 | Sprint 2 | ✅ Done |
+|:---: |:--- |:--- |:---: |:---: |:---: |:---: |
+| **US01** | Quản lý Snippet | Là người dùng, tôi muốn **tạo một đoạn code mới** (nhập tiêu đề, chọn ngôn ngữ lập trình, dán nội dung code và ghi mô tả ngắn), để lưu trữ vào kho code cá nhân của mình. | Cao | 3 | Sprint 1 | Done |
+| **US02** | Giao diện & Trải nghiệm | Là người dùng, tôi muốn **xem danh sách các đoạn code với tô màu cú pháp tự động** (Syntax Highlighting) theo từng ngôn ngữ lập trình, để dễ đọc và phân biệt code như trong IDE. | Cao | 5 | Sprint 1 | Done |
+| **US03** | Giao diện & Trải nghiệm | Là người dùng, tôi muốn có **nút "Copy" 1-click** để sao chép toàn bộ nội dung đoạn code vào clipboard ngay lập tức, để dán vào IDE hoặc editor mà không cần chọn thủ công. | Cao | 2 | Sprint 1 | Done |
+| **US04** | Phân loại & Tìm kiếm | Là người dùng, tôi muốn **gán các thẻ phân loại (Tags)** như `#react`, `#python`, `#sql` vào mỗi đoạn code khi tạo hoặc chỉnh sửa, để nhóm và lọc chúng theo chủ đề. | Trung bình | 3 | Sprint 2 | Done |
+| **US05** | Phân loại & Tìm kiếm | Là người dùng, tôi muốn **tìm kiếm tức thì theo từ khóa** (tiêu đề, nội dung code) và **lọc theo Tag hoặc Ngôn ngữ lập trình** trong thời gian thực, để tra cứu đoạn code cần dùng trong vài giây. | Cao | 5 | Sprint 2 | Done |
+| **US06** | Quản lý Snippet | Là người dùng, tôi muốn **chỉnh sửa thông tin** (tiêu đề, code, mô tả, tags) hoặc **xóa hoàn toàn** một đoạn code không còn cần thiết, để duy trì kho code luôn gọn gàng và chính xác. | Trung bình | 2 | Sprint 2 | Done |
+| **US07** | Sao lưu dữ liệu | Là người dùng, tôi muốn **xuất (Export) toàn bộ kho code ra file `.json`** và **nhập lại (Import) từ file `.json`** trước đó, để sao lưu dữ liệu an toàn hoặc chuyển sang máy tính khác. | Thấp | 3 | Sprint 2 | Done |
 
 ---
 
@@ -71,7 +71,7 @@ Một User Story được coi là **Done** khi đáp ứng **tất cả** các �
 ## Backlog Refinement — Tính năng Tương lai (Future Sprints)
 
 | Ý tưởng | Mô tả | Ưu tiên dự kiến |
-| :--- | :--- | :---: |
+|:--- |:--- |:---: |
 | Cloud Sync | Đồng bộ dữ liệu lên Firebase / Supabase | Cao |
 | Snippet Sharing | Chia sẻ snippet qua link công khai | Trung bình |
 | Chrome Extension | Extension lưu code nhanh khi lướt web | Thấp |

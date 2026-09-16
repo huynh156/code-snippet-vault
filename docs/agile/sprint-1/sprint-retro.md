@@ -9,19 +9,19 @@
 
 ---
 
-## 🎯 Kết quả Sprint 1
+## Kết quả Sprint 1
 
 | Chỉ số | Giá trị |
-| :--- | :--- |
+|:--- |:--- |
 | Story Points cam kết | 10 SP |
 | Story Points hoàn thành | 10 SP |
 | Velocity | 100% |
 | Blockers phát sinh | 1 (PrismJS + useEffect) |
-| Blockers đã giải quyết | 1/1 ✅ |
+| Blockers đã giải quyết | 1/1  |
 
 ---
 
-## ✅ KEEP — Những điều tốt cần phát huy
+## KEEP — Những điều tốt cần phát huy
 - Cập nhật Kanban Board hàng ngày.
 - Đọc tài liệu thư viện trước khi tích hợp.
 - Test thủ công sau mỗi tính năng nhỏ.
@@ -29,14 +29,14 @@
 
 ---
 
-## ⚠️ PROBLEM — Những điều chưa tốt cần cải thiện
+## PROBLEM — Những điều chưa tốt cần cải thiện
 - Ghi Daily Standup chưa đủ chi tiết.
 - Ước lượng thời gian chưa tính đủ rủi ro thư viện.
 - Thiếu checklist kiểm thử chuẩn.
 
 ---
 
-## 🚀 TRY — Hành động cải tiến cho Sprint 2 (31/08 – 05/09/2026)
+## TRY — Hành động cải tiến cho Sprint 2 (31/08 – 05/09/2026)
 - **T1:** Ghi Daily Standup chi tiết hơn (≥ 4-5 dòng/ngày).
 - **T2:** Bổ sung buffer 20% vào ước lượng thời gian.
 - **T3:** Tạo checklist kiểm thử trước khi mark Done.

@@ -7,24 +7,24 @@
 
 ---
 
-## 👥 Thành phần tham dự
+## Thành phần tham dự
 
 | Vai trò | Người tham gia | MSSV |
-| :--- | :--- | :--- |
+|:--- |:--- |:--- |
 | Người trình bày (PO + Dev) | Trần Tuấn Huynh | 2000005479 |
 | Giảng viên hướng dẫn (Stakeholder) | Giảng viên bộ môn Agile/Scrum | — |
 
 ---
 
-## 🎯 Sprint Goal Recap
+## Sprint Goal Recap
 
 > **Mục tiêu Sprint 1:** "Hoàn thiện bộ tính năng MVP cốt lõi: tạo, lưu trữ, xem với tô màu cú pháp và copy 1-click."
 
-**Kết quả:** ✅ **ĐẠT ĐƯỢC HOÀN TOÀN** — 10/10 Story Points hoàn thành.
+**Kết quả:**  **ĐẠT ĐƯỢC HOÀN TOÀN** — 10/10 Story Points hoàn thành.
 
 ---
 
-## ✅ Tính năng đã hoàn thành (Increment Sprint 1)
+##  Tính năng đã hoàn thành (Increment Sprint 1)
 
 ### US01 — Tạo Snippet Mới (3 SP)
 - Form tạo snippet hoạt động với đầy đủ 4 trường nhập liệu.
@@ -39,24 +39,24 @@
 
 ---
 
-## 📊 Burndown Chart Sprint 1
+## Burndown Chart Sprint 1
 
 ```
 Story Points còn lại (Y) theo Ngày làm việc (X):
 
-10 │▓▓▓▓▓▓▓▓
- 8 │        ▓▓▓▓
- 6 │            ▓▓▓▓
- 5 │                ▓▓
- 3 │                  ▓▓
- 0 │                    ▓▓
-   └────────────────────────── Ngày (Tháng 08/2026)
-     17  18  19  20  21  24  25  26  27  28
+10
+ 8
+ 6
+ 5
+ 3
+ 0
+ Ngày (Tháng 08/2026)
+ 17 18 19 20 21 24 25 26 27 28
 ```
 
 ---
 
-## 📅 Bước tiếp theo
+## Bước tiếp theo
 
 - **Sprint 2 bắt đầu:** Thứ Hai, 31/08/2026
 - **Mục tiêu Sprint 2:** Tra cứu nâng cao (Filter + Search), Chỉnh sửa/Xóa và sao lưu dữ liệu (Export/Import JSON)

@@ -8,16 +8,16 @@
 
 ---
 
-## 🎯 Sprint Goal Recap
+## Sprint Goal Recap
 > **Mục tiêu Sprint 2:** "Nâng cấp Code Vault lên sản phẩm hoàn chỉnh với phân loại Tags, tìm kiếm tức thì, chỉnh sửa/xóa và sao lưu JSON."
-**Kết quả:** ✅ **ĐẠT ĐƯỢC HOÀN TOÀN** — 13/13 Story Points hoàn thành.
+**Kết quả:**  **ĐẠT ĐƯỢC HOÀN TOÀN** — 13/13 Story Points hoàn thành.
 
 ---
 
-## 🏆 Tổng kết toàn dự án
+## Tổng kết toàn dự án
 
 | Chỉ số | Sprint 1 (17/08 – 28/08) | Sprint 2 (31/08 – 05/09) | Tổng cộng |
-| :--- | :---: | :---: | :---: |
+|:--- |:---: |:---: |:---: |
 | Story Points cam kết | 10 SP | 13 SP | **23 SP** |
 | Hoàn thành | 10 SP | 13 SP | **23 SP** |
 | Velocity | 100% | 100% | **100%** |

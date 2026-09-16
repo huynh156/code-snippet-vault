@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Kết quả Sprint 2
+## Kết quả Sprint 2
 - Story Points hoàn thành: 13/13 SP (Velocity: 100%).
 - Đối soát 3/3 cam kết cải tiến từ Sprint 1: Đạt 100%.
 - Ngày hoàn thành dự án: 05/09/2026.

@@ -4,10 +4,10 @@
 
 ---
 
-## 📌 Thông tin sinh viên & Đề tài
+## Thông tin sinh viên & Đề tài
 
 | Mục | Chi tiết |
-| :--- | :--- |
+|:--- |:--- |
 | **Họ và tên sinh viên** | **Trần Tuấn Huynh** |
 | **Mã số sinh viên (MSSV)** | **2000005479** |
 | **Môn học** | Phát triển phần mềm theo quy trình Agile/Scrum |
@@ -17,10 +17,10 @@
 
 ---
 
-## 👥 Scrum Team & Phân công Chức danh
+## Scrum Team & Phân công Chức danh
 
 | Chức danh Scrum | Người đảm nhiệm | MSSV | Nhiệm vụ chính |
-| :--- | :--- | :--- | :--- |
+|:--- |:--- |:--- |:--- |
 | **Product Owner (PO)** | Trần Tuấn Huynh | 2000005479 | Quản lý Product Backlog, định nghĩa User Story & Acceptance Criteria |
 | **Scrum Master (SM)** | Trần Tuấn Huynh | 2000005479 | Tổ chức các sự kiện Scrum, điều phối tiến độ, giải quyết blocker |
 | **Developer (Dev)** | Trần Tuấn Huynh | 2000005479 | Phát triển mã nguồn Frontend React, tối ưu UI/UX và logic lưu trữ |
@@ -28,14 +28,14 @@
 
 ---
 
-## 📖 Mô tả dự án
+## Mô tả dự án
 
 **Code Snippet & Tech Notes Vault** là một ứng dụng web Single Page Application (SPA) giúp lập trình viên lưu trữ, tổ chức và tra cứu nhanh các đoạn code thường dùng. Ứng dụng hoạt động hoàn toàn trên trình duyệt, không cần server backend — dữ liệu được đồng bộ và lưu trữ an toàn trong Browser LocalStorage.
 
-### 🌟 Tính năng chính
+### Tính năng chính
 
 | Tính năng | Mô tả |
-| :--- | :--- |
+|:--- |:--- |
 | **Tạo & Lưu Snippet** | Nhập tiêu đề, chọn ngôn ngữ lập trình, dán code và thêm mô tả ngắn |
 | **Syntax Highlighting** | Tô màu cú pháp tự động theo ngôn ngữ nhờ PrismJS (JS, Python, C++, Java, SQL, CSS...) |
 | **Copy 1-Click** | Sao chép toàn bộ code vào clipboard chỉ bằng 1 nút bấm |
@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 Cài đặt và chạy ứng dụng
+## Cài đặt và chạy ứng dụng
 
 ```bash
 # 1. Clone repository về máy
@@ -75,10 +75,10 @@ npm run preview
 
 ---
 
-## 📑 Danh mục Tài liệu Agile
+## Danh mục Tài liệu Agile
 
 | Tài liệu | Mô tả | Đường dẫn |
-| :--- | :--- | :--- |
+|:--- |:--- |:--- |
 | **Product Backlog** | 7 User Stories, Story Points, phân bổ Sprint | [docs/agile/product-backlog.md](./docs/agile/product-backlog.md) |
 | **Sprint 1 — Planning** | Mục tiêu Sprint 1, Sprint Backlog US01–US03 | [docs/agile/sprint-1/sprint-planning.md](./docs/agile/sprint-1/sprint-planning.md) |
 | **Sprint 1 — Daily Standups** | Nhật ký làm việc (17/08 – 28/08/2026) | [docs/agile/sprint-1/daily-standups.md](./docs/agile/sprint-1/daily-standups.md) |
